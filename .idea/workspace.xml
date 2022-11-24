@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="59950183-7e26-4b5e-950f-3313f0ee4af4" name="Changes" comment="" />
+    <list default="true" id="59950183-7e26-4b5e-950f-3313f0ee4af4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api_Testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api_Testing/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api_Testing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mutual_Methods/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mutual_Methods/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mutual_Methods/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mutual_Methods/src/main/resources/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mutual_Methods/src/main/resources/log4j2.component.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2I0lUoMhOyKOtcq4HilE05a7wDV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,9 +43,62 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "last_opened_file_path": "C:/Users/Mert.Mansuroglu/Documents/GaugeApiProject",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2045977"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mert.Mansuroglu\Documents\GaugeApiProject" />
+      <recent name="C:\Users\Mert.Mansuroglu\Documents\GaugeApiProject\Api_Testing" />
+      <recent name="C:\Users\Mert.Mansuroglu\Documents\GaugeApiProject\Api_Testing\src\test" />
+      <recent name="C:\Users\Mert.Mansuroglu\Documents\GaugeApiProject\Api_Testing\src\test\java" />
+      <recent name="C:\Users\Mert.Mansuroglu\Documents\GaugeApiProject\Api_Testing\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gauge Execution.Scenario Heading">
+    <configuration name="Add a new pet" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/Api_Testing/specs/MobileBanking/apiExamples.spec:8" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="Api_Testing" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario Heading" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/Api_Testing/specs/MobileBanking/petpost.spec:12" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="Api_Testing" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gauge Execution.Scenario Heading" />
+        <item itemvalue="Gauge Execution.Add a new pet" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,5 +109,16 @@
       <updated>1669326402562</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

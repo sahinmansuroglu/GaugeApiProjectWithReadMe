@@ -1,0 +1,8 @@
+[
+	"C:\\Program Files\\Gauge\\bin\\gauge.exe",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"C:/Users/Mert.Mansuroglu/Documents/GaugeApiProject/Api_Testing/specs/MobileBanking/petpost.spec:12"
+]

@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="C:\Users\Mert.Mansuroglu\Documents\GaugeApiProject\Api_Testing\specs\MobileBanking\petpost.spec" time="3.083" timestamp="2022-11-25T01:37:25" name="Specification Heading" errors="0" hostname="TUL-MERT-MANSU">
+		<properties></properties>
+		<testcase classname="Specification Heading" name="Scenario Heading" time="3.083"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>

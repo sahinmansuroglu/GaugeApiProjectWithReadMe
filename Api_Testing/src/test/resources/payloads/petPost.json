@@ -1,0 +1,30 @@
+{
+  "id": 2020202112,
+  "category": {
+    "id": 0,
+    "name": "Dog"
+  },
+  "name": "karabas",
+  "photoUrls": [
+    "https://www.karabas.com/karabas.jpg"
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "kuçukuçu"
+    },
+    {
+      "id": 3,
+      "name": "kuş"
+    },
+    {
+      "id": 3,
+      "name": "kadir"
+    },
+    {
+      "id": 3,
+      "name": "test"
+    }
+  ],
+  "status": "available"
+}

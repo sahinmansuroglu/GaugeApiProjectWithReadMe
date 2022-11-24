@@ -1,0 +1,630 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 1485milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1485"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 53211"}
+{"logLevel":"info","message":"Listening on port:53211"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Loading Generate a max {} digit number and store it in Spec store as {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Sayı oluştur,en fazla {} basamaklı ve spec deposuna {} anahtarı ile kaydetvia reflected sources."}
+{"logLevel":"debug","message":"Loading Validate json {} from the spec stored data with schema {} in classpathvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get response time as seconds and compare it, is it less then {}?via reflected sources."}
+{"logLevel":"debug","message":"Loading Response zamanını getir ve karşılaştır, {} saniyeden düşük mü?'via reflected sources."}
+{"logLevel":"debug","message":"Loading Add SOAPAction {}via reflected sources."}
+{"logLevel":"debug","message":"Loading SOAPAction ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from response and then compare with {}, is it contains the value?via reflected sources."}
+{"logLevel":"debug","message":"Loading Options requestvia reflected sources."}
+{"logLevel":"debug","message":"Loading Options isteği göndervia reflected sources."}
+{"logLevel":"debug","message":"Loading Options request {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Options isteği gönder {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Store json {}'s value from classpath with {} during scenariovia reflected sources."}
+{"logLevel":"debug","message":"Loading Senaryo boyunca json {} içeriğini {} anahtarı ile saklavia reflected sources."}
+{"logLevel":"debug","message":"Loading Store json {}'s value from classpath with {} during suitvia reflected sources."}
+{"logLevel":"debug","message":"Loading Suit boyunca json {} içeriğini {} anahtarı ile saklavia reflected sources."}
+{"logLevel":"debug","message":"Loading Head request {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Head isteği gönder {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Head requestvia reflected sources."}
+{"logLevel":"debug","message":"Loading Head isteği göndervia reflected sources."}
+{"logLevel":"debug","message":"Loading Replace {} old chars to new {} chars on {} text but only first and store it on Scenario store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Sleep for {} milliSecondvia reflected sources."}
+{"logLevel":"debug","message":"Loading Testi {} milli saniyeliğine durdurvia reflected sources."}
+{"logLevel":"debug","message":"Loading Validate json {} from the scenario stored data with schema {} in classpathvia reflected sources."}
+{"logLevel":"debug","message":"Loading Generate new phone number and store as {} during scenariovia reflected sources."}
+{"logLevel":"debug","message":"Loading Add base url {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Url ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Store response as json with {} during scenariovia reflected sources."}
+{"logLevel":"debug","message":"Loading Response'u json olarak {} anahtarı ile senaryo boyunca sakla.via reflected sources."}
+{"logLevel":"debug","message":"Loading Generate a number between {} and {} and end and store it in Scenario store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Sayı oluştur, {} ile {} arasında ve senaryo deposuna {} anahtarı ile kaydetvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get column {} data from query {} result and save in spec storevia reflected sources."}
+{"logLevel":"debug","message":"Loading Query {} sorgusu sonucundan {} sütun verisini spec deposunda saklavia reflected sources."}
+{"logLevel":"debug","message":"Loading Add path parameter from store with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading {} anahtarı ile saklanan datalardan değeri al path parametresi olarak ekle.via reflected sources."}
+{"logLevel":"debug","message":"Loading Generate a {} digit number and store it in Spec store with {} key as string typevia reflected sources."}
+{"logLevel":"debug","message":"Loading Sayı oluştur, {} basamaklı ve spec deposuna {} anahtarı ile dizi olarak kaydetvia reflected sources."}
+{"logLevel":"debug","message":"Loading Add Bearer token from suit store {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Suit store'dan Bearer token ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Delete request {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Delete isteği gönder {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get requestvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get isteği göndervia reflected sources."}
+{"logLevel":"debug","message":"Loading Delete requestvia reflected sources."}
+{"logLevel":"debug","message":"Loading Delete isteği göndervia reflected sources."}
+{"logLevel":"debug","message":"Loading Get request {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get isteği gönder {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add query parameter from store with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading {} anahtarı ile saklanan datalardan değeri al query parametresi olarak ekle.via reflected sources."}
+{"logLevel":"debug","message":"Loading Post requestvia reflected sources."}
+{"logLevel":"debug","message":"Loading Post isteği göndervia reflected sources."}
+{"logLevel":"debug","message":"Loading Post request {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Post isteği gönder {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Set contentType is JSONvia reflected sources."}
+{"logLevel":"debug","message":"Loading Add payload from spec store with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add body from spec store with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Spec kayıtlı verisinden istek body'si ekle, kayıt anahtarı {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Generate new phone number and store as {} during suitvia reflected sources."}
+{"logLevel":"debug","message":"Loading Log this param {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Kayıtlı parametreyi logla {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Store {}'s value from classpath with {} during suitevia reflected sources."}
+{"logLevel":"debug","message":"Loading Suite boyunca {} içeriğini {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Validate response with  schema {} in classpath according draft4via reflected sources."}
+{"logLevel":"debug","message":"Loading Add Bearer token from spec store {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Spec store'dan Bearer token ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Validate response with  schema {} in classpath according draft3via reflected sources."}
+{"logLevel":"debug","message":"Loading Add Headers {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Header Ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Store response as string with {} during scenariovia reflected sources."}
+{"logLevel":"debug","message":"Loading Response'u String olarak {} anahtarı ile senaryo boyunca sakla.via reflected sources."}
+{"logLevel":"debug","message":"Loading Get body with {} from store and update {} as {} from scenario datavia reflected sources."}
+{"logLevel":"debug","message":"Loading {} anahtarı ile saklanan body'den, {} değerini al, kayıtlı {}'in değeri ile güncellevia reflected sources."}
+{"logLevel":"debug","message":"Loading Get body {} and update {}={} in json then store it during the scenario with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add endpoint {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Endpoint ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add base path {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add payload from store with key {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Senaryo kayıtlı verisinden istek body'si ekle, kayıt anahtarı {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Define new requestvia reflected sources."}
+{"logLevel":"debug","message":"Loading Yeni bir api isteği tanımlavia reflected sources."}
+{"logLevel":"debug","message":"Loading Add relaxed HTTPS validationvia reflected sources."}
+{"logLevel":"debug","message":"Loading Varsayılan https sertifkası ekleyinvia reflected sources."}
+{"logLevel":"debug","message":"Loading Validate stored json {} response with stored schema {} from scenario data storevia reflected sources."}
+{"logLevel":"debug","message":"Loading Validate response json with schema {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Validate response json with schema {} which is in from class pathvia reflected sources."}
+{"logLevel":"debug","message":"Loading Responsu resource da tanımlanan şema {} ile dorğulayınvia reflected sources."}
+{"logLevel":"debug","message":"Loading Basic auth with {} and {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Kullanıcı adı: {}, Şifre {} ile temel yetkilendirme yapvia reflected sources."}
+{"logLevel":"debug","message":"Loading Replace {} old chars to new {} chars on {} text but only first and store it on Spec store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from response and then compare with {}, Are they not equals?via reflected sources."}
+{"logLevel":"debug","message":"Loading Get value with {} from response and verify it isn't equal with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Yanıttan {} ile değer alın ve {} ile eşit olmadığını doğrulayınvia reflected sources."}
+{"logLevel":"debug","message":"Loading Add proxy to request with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Proxy ekle, {} via reflected sources."}
+{"logLevel":"debug","message":"Loading Store {}'s value from classpath with {} during specvia reflected sources."}
+{"logLevel":"debug","message":"Loading Spec boyunca {} içeriğini {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Check if {} is contains {} as stringvia reflected sources."}
+{"logLevel":"debug","message":"Loading Verify {} is contains {} as stringvia reflected sources."}
+{"logLevel":"debug","message":"Loading Değer {}'in değer2 {}'i içerdiğini doğrulavia reflected sources."}
+{"logLevel":"debug","message":"Loading Replace {} old chars to new {} chars on {} text and store it on Scenario store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Store json {}'s value from classpath with {} during specvia reflected sources."}
+{"logLevel":"debug","message":"Loading Spec boyunca json {} içeriğini {} anahtarı ile saklavia reflected sources."}
+{"logLevel":"debug","message":"Loading Add query parameter {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Query parametresi ekle {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add payload as map {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add body as map {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Tablodan istek body'si ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add query parameter {} = {}.via reflected sources."}
+{"logLevel":"debug","message":"Loading Query parametresi ekle {} = {}.via reflected sources."}
+{"logLevel":"debug","message":"Loading Add payload as file from resource {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add body as file from resource {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Dosya tipinde istek body'si ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add query parameter {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Query parametresi ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get \"{}\" file and add to request as multi-part form datavia reflected sources."}
+{"logLevel":"debug","message":"Loading File \"{}\" dosyayı recourcedan getir ve multi-part form data olarak eklevia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} file and add to request with key {} as multi-part form datavia reflected sources."}
+{"logLevel":"debug","message":"Loading File \"{}\" dosyayı recourcedan getir ve key {} ile multi-part form data olarak eklevia reflected sources."}
+{"logLevel":"debug","message":"Loading Store variable {} = {} during specvia reflected sources."}
+{"logLevel":"debug","message":"Loading Spec boyunca değişkeni sakla {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from scenario store and then compare with {}, Are they equals?via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from scenario store and verify it is equal with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Senaryo deposundan {} alın ve değer:{} ile eşit olduğunu doğrulayınvia reflected sources."}
+{"logLevel":"debug","message":"Loading Validate response with  schema {} in classpath according hyper schemavia reflected sources."}
+{"logLevel":"debug","message":"Loading Get column data from query {} result and save all column data in scenario store with column namevia reflected sources."}
+{"logLevel":"debug","message":"Loading Query {} sorgusu sonucundan dönen tüm datayı kolon isimleriyle birlikte senaryo deposunda saklavia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from the body then convert it to list and store it with {} during the suitvia reflected sources."}
+{"logLevel":"debug","message":"Loading Add log filter with errorStatus {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Bu statü kodları için log filtresi ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} and {} from scenario store and then compare, Are they not equals?via reflected sources."}
+{"logLevel":"debug","message":"Loading Key {} ve {}'i senaryo deposundan getir ve eşit olmadıklarını doğrulavia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} and {} from the secnario store and verify they aren't equalvia reflected sources."}
+{"logLevel":"debug","message":"Loading Substring text {} from {} index to the end then store it in Scenario store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Substring text {} from {} index to {} index then store it in Scenario store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Replace {} old chars to new {} chars on {} text but only first and store it on Suit store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get response time as milliseconds and compare it, is it less then {}?via reflected sources."}
+{"logLevel":"debug","message":"Loading Response zamanını getir ve karşılaştır, {} milisaniyeden düşük mü?'via reflected sources."}
+{"logLevel":"debug","message":"Loading Get json file {} and update as {}={} then add the requestvia reflected sources."}
+{"logLevel":"debug","message":"Loading Resource'dan json dosyasını {} oku ve {}={} olarak güncele sonra requeste ekle via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from the body then convert it to list and store it with {} during the scenariovia reflected sources."}
+{"logLevel":"debug","message":"Loading Add proxy to request with {} and {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Proxy ekle, {} and {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add proxy to request with {}, {} {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Proxy ekle {}, {} {}via reflected sources."}
+{"logLevel":"debug","message":"Comparing 'imp.ProxyImp.addProxyWithUri' and 'imp.ProxyImp.addProxy'"}
+{"logLevel":"debug","message":"Loading Add proxy to request with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Proxy ekle, {}via reflected sources."}
+{"logLevel":"debug","message":"Comparing 'imp.ProxyImp.addProxyWithUri' and 'imp.ProxyImp.addProxy'"}
+{"logLevel":"debug","message":"Comparing 'imp.ProxyImp.addProxy' and 'imp.ProxyImp.addProxy'"}
+{"logLevel":"debug","message":"Loading Add proxy to request with {}via reflected sources."}
+{"logLevel":"debug","message":"Comparing 'imp.ProxyImp.addProxy' and 'imp.ProxyImp.addProxy'"}
+{"logLevel":"debug","message":"Loading Proxy ekle, {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Generate a number between {} and {} and end and store it in Suit store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Sayı oluştur, {} ile {} arasında ve suit deposuna {} anahtarı ile kaydetvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get column {} data from query {} result and save in scenario storevia reflected sources."}
+{"logLevel":"debug","message":"Loading Query {} sorgusu sonucundan {} sütun verisini scenario deposunda saklavia reflected sources."}
+{"logLevel":"debug","message":"Loading Generate new phone number and store as {} during specvia reflected sources."}
+{"logLevel":"debug","message":"Loading Put requestvia reflected sources."}
+{"logLevel":"debug","message":"Loading Put isteği göndervia reflected sources."}
+{"logLevel":"debug","message":"Loading Put request {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Put isteği gönder {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Store table as map during scenario with {} {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Tabloyu map objesi olarak {} anahtarı ile senaryo boyunca sakla {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Substring text {} from {} index to {} index then store it in Suit store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Substring text {} from {} index to the end then store it in Suit store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from spec store and then compare with {}, Are they equals?via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from spec store and verify it is equal with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Spec deposundan {} alın ve değer:{} ile eşit olduğunu doğrulayınvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} and {} from spec store and then compare, Are they not equals?via reflected sources."}
+{"logLevel":"debug","message":"Loading Key {} ve {}'i spec deposundan getir ve eşit olmadıklarını doğrulavia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} and {} from the spec store and verify they aren't equalvia reflected sources."}
+{"logLevel":"debug","message":"Loading Validate json {} from the suit stored data with schema {} in classpathvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from response and store it with {} during specvia reflected sources."}
+{"logLevel":"debug","message":"Loading Respons'dan {} değerini getir ve {} anahtarı ile spec boyunca saklavia reflected sources."}
+{"logLevel":"debug","message":"Loading Add proxy url with host: {}, port: {}, schema: {}, username: {} and password:{}via reflected sources."}
+{"logLevel":"debug","message":"Loading Proxy ekle, host: {}, port: {}, schema: {}, username: {} and password:{}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from suit store and check if it is contains {} as stringvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from suit store and verify it is contains {} as stringvia reflected sources."}
+{"logLevel":"debug","message":"Loading Suit deposundan {} alın ve dize olarak {} içerdiğini doğrulayınvia reflected sources."}
+{"logLevel":"debug","message":"Loading Store response as string with {} during suitevia reflected sources."}
+{"logLevel":"debug","message":"Loading Response'u String olarak {} anahtarı ile suite boyunca sakla.via reflected sources."}
+{"logLevel":"debug","message":"Loading Remove {} from storevia reflected sources."}
+{"logLevel":"debug","message":"Loading Store variable {} = {} during scenariovia reflected sources."}
+{"logLevel":"debug","message":"Loading Senaryo boyunca değişkeni sakla {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get column data from query {} result and save all column data in suit store with column namevia reflected sources."}
+{"logLevel":"debug","message":"Loading Query {} sorgusu sonucundan dönen tüm datayı kolon isimleriyle birlikte spec deposunda saklavia reflected sources."}
+{"logLevel":"debug","message":"Loading Store {}'s value from classpath with {} during scenariovia reflected sources."}
+{"logLevel":"debug","message":"Loading Senaryo boyunca {} içeriğini {} anahtarı ile saklavia reflected sources."}
+{"logLevel":"debug","message":"Loading Patch requestvia reflected sources."}
+{"logLevel":"debug","message":"Loading Patch isteği göndervia reflected sources."}
+{"logLevel":"debug","message":"Loading Patch request {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Patch isteği gönder {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from spec store and check if it is contains {} as stringvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from spec store and verify it is contains {} as stringvia reflected sources."}
+{"logLevel":"debug","message":"Loading Spec deposundan {} alın ve dize olarak {} içerdiğini doğrulayınvia reflected sources."}
+{"logLevel":"debug","message":"Loading Generate a max {} digit number and store it in Suit store as {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Sayı oluştur,en fazla {} basamaklı ve suit deposuna {} anahtarı ile kaydetvia reflected sources."}
+{"logLevel":"debug","message":"Loading Generate a max {} digit number and store it in Scenario store as {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Sayı oluştur,en fazla {} basamaklı ve senaryo deposuna {} anahtarı ile kaydetvia reflected sources."}
+{"logLevel":"debug","message":"Loading Add as a header {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Header ekle {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Check if status code is {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Statü kodunu kontrol et {} mü?via reflected sources."}
+{"logLevel":"debug","message":"Loading Verify that the status code is {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Store response as string with {} during specvia reflected sources."}
+{"logLevel":"debug","message":"Loading Response'u String olarak {} anahtarı ile spec boyunca sakla.via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} and {} from scenario store and then compare, Are they equals?via reflected sources."}
+{"logLevel":"debug","message":"Loading Key {} ve {}'i senaryo deposundan getir ve eşit olduklarını doğrulavia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} and {} from the scenario store and verify they are equalvia reflected sources."}
+{"logLevel":"debug","message":"Comparing 'imp.RandomDataStore.generatePhoneNumberSpec' and 'imp.RandomDataStore.generateMailSpec'"}
+{"logLevel":"debug","message":"Loading Generate new phone number and store as {} during specvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from response and then compare with {}, Are they equals?via reflected sources."}
+{"logLevel":"debug","message":"Loading Get value with {} from response and verify it is equal with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Yanıttan {} ile değer alın ve {} ile eşit olduğunu doğrulayınvia reflected sources."}
+{"logLevel":"debug","message":"Loading Store response as json with {} during specvia reflected sources."}
+{"logLevel":"debug","message":"Loading Response'u json olarak {} anahtarı ile spec boyunca sakla.via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from response and store it with {} during suitevia reflected sources."}
+{"logLevel":"debug","message":"Loading Respons'dan {} değerini getir ve {} anahtarı ile suite boyunca saklavia reflected sources."}
+{"logLevel":"debug","message":"Loading Update {}={} json from stored scenario with key {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from scenario store and check if it is contains {} as stringvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from scenario store and verify it is contains {} as stringvia reflected sources."}
+{"logLevel":"debug","message":"Loading Senaryo deposundan {} alın ve dize olarak {} içerdiğini doğrulayınvia reflected sources."}
+{"logLevel":"debug","message":"Loading Log {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Logla {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from response and store it with {} during scenariovia reflected sources."}
+{"logLevel":"debug","message":"Loading Respons'dan {} değerini getir ve {} anahtarı ile senaryo boyunca saklavia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from {} json list which one equals {}={}, and store it during suit with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from scenario store then compare with {}, Are they not equals?via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from scenario store and verify it's not equals with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Senaryo deposundan {} alın ve {} ile eşit olmadığını doğrulayınvia reflected sources."}
+{"logLevel":"debug","message":"Loading Generate a {} digit number and store it in Scenario store with {} key as string typevia reflected sources."}
+{"logLevel":"debug","message":"Loading Sayı oluştur, {} basamaklı ve senaryo deposuna {} anahtarı ile dizi olarak kaydetvia reflected sources."}
+{"logLevel":"debug","message":"Loading Add form parameter {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Form parametresi ekle {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add form parameters {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Form parametrelerini ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Sleep for {} secondvia reflected sources."}
+{"logLevel":"debug","message":"Loading Testi {} saniyeliğine durdurvia reflected sources."}
+{"logLevel":"debug","message":"Comparing 'imp.FormParamImp.addFormParamToReq' and 'imp.FormParamImp.addFormParamToReqWithObjValue'"}
+{"logLevel":"debug","message":"Loading Add form parameter {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Comparing 'imp.FormParamImp.addFormParamToReq' and 'imp.FormParamImp.addFormParamToReqWithObjValue'"}
+{"logLevel":"debug","message":"Loading Form parametresi ekle {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from the body then convert it to list and store it with {} during the specvia reflected sources."}
+{"logLevel":"debug","message":"Loading Basic auth with {} and {} as preemptivevia reflected sources."}
+{"logLevel":"debug","message":"Loading Kullanıcı adı: {}, Şifre {} ile preemptive temel yetkilendirme yapvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get column {} data from query {} result and save in suit storevia reflected sources."}
+{"logLevel":"debug","message":"Loading Query {} sorgusu sonucundan {} sütun verisini suit deposunda saklavia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from suit store then compare with {}, Are they not equals?via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from suit store and verify it's not equals with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Suit deposundan {} alın ve {} ile eşit olmadığını doğrulayınvia reflected sources."}
+{"logLevel":"debug","message":"Loading Add payload as String from resource {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add body as String from resource {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Dosyayadan String tipinde istek body'si ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Replace {} old chars to new {} chars on {} text and store it on Spec store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get column data from query {} result and save all column data in spec store with column namevia reflected sources."}
+{"logLevel":"debug","message":"Comparing 'imp.DbDataImp.GetQueryResultAndSaveValueForAllColumnAndStoreSuitStore' and 'imp.DbDataImp.GetQueryResultAndSaveValueForAllColumnAndStoreSpecStore'"}
+{"logLevel":"debug","message":"Loading Query {} sorgusu sonucundan dönen tüm datayı kolon isimleriyle birlikte spec deposunda saklavia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} list from response and then, compare list count with {}, Are they equals?via reflected sources."}
+{"logLevel":"debug","message":"Loading Generate a number between {} and {} and end and store it in Spec store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Sayı oluştur, {} ile {} arasında ve spec deposuna {} anahtarı ile kaydetvia reflected sources."}
+{"logLevel":"debug","message":"Loading Replace {} old chars to new {} chars on {} text and store it on Suit store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from response and then check if is not null?via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from the response and then verify it is not null?via reflected sources."}
+{"logLevel":"debug","message":"Loading Selector {} ile responsdand eğer getir ve null olmadığını doğrulavia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from {} json list which one equals {}={}, and store it during Scenario with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from spec store then compare with {}, Are they not equals?via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from spec store and verify it's not equals with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Spec deposundan {} alın ve {} ile eşit olmadığını doğrulayınvia reflected sources."}
+{"logLevel":"debug","message":"Loading Add payload from suite store with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add body from suite store with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Suit kayıtlı verisinden istek body'si ekle, kayıt anahtarı {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add path parameter {} = {}.via reflected sources."}
+{"logLevel":"debug","message":"Loading Path parametresi ekle {} = {}.via reflected sources."}
+{"logLevel":"debug","message":"Loading Add path parameter {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Path parametresi ekle {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add path parameters {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Path parametresi ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from {} json list which one equals {}={}, and store it during Spec with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add multi-part data as content-type to header with default boundary {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Multi-part verileri, ekleyin header varsayılan boundary {} ilevia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} and {} from suit store and then compare, Are they not equals?via reflected sources."}
+{"logLevel":"debug","message":"Loading Key {} ve {}'i suit deposundan getir ve eşit olmadıklarını doğrulavia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} and {} from the suit store and verify they aren't equalvia reflected sources."}
+{"logLevel":"debug","message":"Loading Generate new mail address and store as {} during scenariovia reflected sources."}
+{"logLevel":"debug","message":"Loading Store variable {} = {} during suitevia reflected sources."}
+{"logLevel":"debug","message":"Loading Suit boyunca değişkeni sakla {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Generate new mail and store as {} during suitvia reflected sources."}
+{"logLevel":"debug","message":"Loading Add to request {}={} as multi-part form datavia reflected sources."}
+{"logLevel":"debug","message":"Loading Multi-part parametre olarak ekle {}={}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add Bearer token {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Bearer token ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add Bearer token from scenario store {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Senaryo store'dan Bearer token ekle {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add form parameters {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Form parametrelerini ekleyin {} = {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Store response as json with {} during suitvia reflected sources."}
+{"logLevel":"debug","message":"Loading Response'u json olarak {} anahtarı ile suit boyunca sakla.via reflected sources."}
+{"logLevel":"debug","message":"Loading Substring text {} from {} index to the end then store it in Spec store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Substring text {} from {} index to {} index then store it in Spec store with {} keyvia reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from response and then check if is null?via reflected sources."}
+{"logLevel":"debug","message":"Loading Get {} from the response and then verify it is null?via reflected sources."}
+{"logLevel":"debug","message":"Loading Selector {} ile responsdand eğer getir ve null olduğunu doğrula via reflected sources."}
+{"logLevel":"debug","message":"Loading Generate a {} digit number and store it in Suit store with {} key as string typevia reflected sources."}
+{"logLevel":"debug","message":"Loading Sayı oluştur, {} basamaklı ve suit deposuna {} anahtarı ile dizi olarak kaydetvia reflected sources."}
+{"logLevel":"debug","message":"Loading Add payload from scenario store with {}via reflected sources."}
+{"logLevel":"debug","message":"Loading Add body from scenario store with {}via reflected sources."}
+{"logLevel":"debug","message":"Comparing 'imp.RequestBodyImp.addBodyFromStore' and 'imp.RequestBodyImp.addBodyFromScenarioStore'"}
+{"logLevel":"debug","message":"Loading Senaryo kayıtlı verisinden istek body'si ekle, kayıt anahtarı {}via reflected sources."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tPost isteği gönder : null"}
+{"logLevel":"debug","message":"\tSpec deposundan {} alın ve {} ile eşit olmadığını doğrulayın : null"}
+{"logLevel":"debug","message":"\tGet json file {} and update as {}={} then add the request : null"}
+{"logLevel":"debug","message":"\tGet {} file and add to request with key {} as multi-part form data : null"}
+{"logLevel":"debug","message":"\tAdd body as String from resource {} : null"}
+{"logLevel":"debug","message":"\tGet {} from response and store it with {} during scenario : null"}
+{"logLevel":"debug","message":"\tOptions request {} : null"}
+{"logLevel":"debug","message":"\tGet {} from the response and then verify it is null? : null"}
+{"logLevel":"debug","message":"\tSayı oluştur, {} ile {} arasında ve spec deposuna {} anahtarı ile kaydet : null"}
+{"logLevel":"debug","message":"\tDelete isteği gönder {} : null"}
+{"logLevel":"debug","message":"\tGenerate new phone number and store as {} during scenario : null"}
+{"logLevel":"debug","message":"\tQuery {} sorgusu sonucundan {} sütun verisini spec deposunda sakla : null"}
+{"logLevel":"debug","message":"\t{} anahtarı ile saklanan body'den, {} değerini al, kayıtlı {}'in değeri ile güncelle : null"}
+{"logLevel":"debug","message":"\tGet {} from the body then convert it to list and store it with {} during the spec : null"}
+{"logLevel":"debug","message":"\tPost request {} : null"}
+{"logLevel":"debug","message":"\tPath parametresi ekle {} = {}. : null"}
+{"logLevel":"debug","message":"\tStore response as json with {} during suit : null"}
+{"logLevel":"debug","message":"\tHeader ekle {} = {} : null"}
+{"logLevel":"debug","message":"\tQuery parametresi ekle {} = {}. : null"}
+{"logLevel":"debug","message":"\tPatch request : null"}
+{"logLevel":"debug","message":"\tResource'dan json dosyasını {} oku ve {}={} olarak güncele sonra requeste ekle  : null"}
+{"logLevel":"debug","message":"\tPut request {} : null"}
+{"logLevel":"debug","message":"\tKey {} ve {}'i senaryo deposundan getir ve eşit olduklarını doğrula : null"}
+{"logLevel":"debug","message":"\tLog {} : null"}
+{"logLevel":"debug","message":"\tProxy ekle, {} and {} : null"}
+{"logLevel":"debug","message":"\tReplace {} old chars to new {} chars on {} text and store it on Suit store with {} key : null"}
+{"logLevel":"debug","message":"\tGet {} from response and then compare with {}, is it contains the value? : null"}
+{"logLevel":"debug","message":"\tHead isteği gönder {} : null"}
+{"logLevel":"debug","message":"\tSuit boyunca değişkeni sakla {} = {} : null"}
+{"logLevel":"debug","message":"\tGet isteği gönder : null"}
+{"logLevel":"debug","message":"\tGet {} from response and then check if is not null? : null"}
+{"logLevel":"debug","message":"\tResponse'u String olarak {} anahtarı ile senaryo boyunca sakla. : null"}
+{"logLevel":"debug","message":"\tStore json {}'s value from classpath with {} during spec : null"}
+{"logLevel":"debug","message":"\tSuit deposundan {} alın ve dize olarak {} içerdiğini doğrulayın : null"}
+{"logLevel":"debug","message":"\tGet {} from {} json list which one equals {}={}, and store it during suit with {} : null"}
+{"logLevel":"debug","message":"\tGenerate a number between {} and {} and end and store it in Spec store with {} key : null"}
+{"logLevel":"debug","message":"\tAdd proxy to request with {} : null"}
+{"logLevel":"debug","message":"\tUpdate {}={} json from stored scenario with key {} : null"}
+{"logLevel":"debug","message":"\tAdd body as map {} : null"}
+{"logLevel":"debug","message":"\tAdd payload from suite store with {} : null"}
+{"logLevel":"debug","message":"\tAdd form parameter {} = {} : null"}
+{"logLevel":"debug","message":"\tAdd to request {}={} as multi-part form data : null"}
+{"logLevel":"debug","message":"\tSayı oluştur, {} basamaklı ve suit deposuna {} anahtarı ile dizi olarak kaydet : null"}
+{"logLevel":"debug","message":"\tAdd base path {} : null"}
+{"logLevel":"debug","message":"\tGenerate new mail and store as {} during suit : null"}
+{"logLevel":"debug","message":"\tKullanıcı adı: {}, Şifre {} ile preemptive temel yetkilendirme yap : null"}
+{"logLevel":"debug","message":"\tAdd path parameters {} : null"}
+{"logLevel":"debug","message":"\tAdd Bearer token {} : null"}
+{"logLevel":"debug","message":"\tPatch request {} : null"}
+{"logLevel":"debug","message":"\tOptions isteği gönder {} : null"}
+{"logLevel":"debug","message":"\tGet isteği gönder {} : null"}
+{"logLevel":"debug","message":"\tGet {} from scenario store and verify it's not equals with {} : null"}
+{"logLevel":"debug","message":"\tGet value with {} from response and verify it isn't equal with {} : null"}
+{"logLevel":"debug","message":"\tHead request : null"}
+{"logLevel":"debug","message":"\tSleep for {} second : null"}
+{"logLevel":"debug","message":"\tMulti-part parametre olarak ekle {}={} : null"}
+{"logLevel":"debug","message":"\tAdd proxy url with host: {}, port: {}, schema: {}, username: {} and password:{} : null"}
+{"logLevel":"debug","message":"\tTesti {} saniyeliğine durdur : null"}
+{"logLevel":"debug","message":"\tSuit store'dan Bearer token ekle {} : null"}
+{"logLevel":"debug","message":"\tGenerate new phone number and store as {} during suit : null"}
+{"logLevel":"debug","message":"\tGet {} from scenario store and verify it is equal with {} : null"}
+{"logLevel":"debug","message":"\tPut isteği gönder {} : null"}
+{"logLevel":"debug","message":"\tValidate response json with schema {} : null"}
+{"logLevel":"debug","message":"\tResponse'u json olarak {} anahtarı ile senaryo boyunca sakla. : null"}
+{"logLevel":"debug","message":"\tSpec deposundan {} alın ve dize olarak {} içerdiğini doğrulayın : null"}
+{"logLevel":"debug","message":"\tAdd Headers {} : null"}
+{"logLevel":"debug","message":"\tBasic auth with {} and {} : null"}
+{"logLevel":"debug","message":"\tGet {} list from response and then, compare list count with {}, Are they equals? : null"}
+{"logLevel":"debug","message":"\tQuery parametresi ekle {} : null"}
+{"logLevel":"debug","message":"\tAdd form parameters {} : null"}
+{"logLevel":"debug","message":"\tSayı oluştur,en fazla {} basamaklı ve senaryo deposuna {} anahtarı ile kaydet : null"}
+{"logLevel":"debug","message":"\tGet column data from query {} result and save all column data in suit store with column name : null"}
+{"logLevel":"debug","message":"\tStore variable {} = {} during suite : null"}
+{"logLevel":"debug","message":"\tAdd path parameter {} = {}. : null"}
+{"logLevel":"debug","message":"\tSenaryo deposundan {} alın ve dize olarak {} içerdiğini doğrulayın : null"}
+{"logLevel":"debug","message":"\tStore {}'s value from classpath with {} during spec : null"}
+{"logLevel":"debug","message":"\tRespons'dan {} değerini getir ve {} anahtarı ile senaryo boyunca sakla : null"}
+{"logLevel":"debug","message":"\tValidate response with  schema {} in classpath according hyper schema : null"}
+{"logLevel":"debug","message":"\tGet {} and {} from spec store and then compare, Are they not equals? : null"}
+{"logLevel":"debug","message":"\tSubstring text {} from {} index to the end then store it in Suit store with {} key : null"}
+{"logLevel":"debug","message":"\tSOAPAction ekle {} : null"}
+{"logLevel":"debug","message":"\tPatch isteği gönder : null"}
+{"logLevel":"debug","message":"\tPath parametresi ekle {} : null"}
+{"logLevel":"debug","message":"\tDelete isteği gönder : null"}
+{"logLevel":"debug","message":"\tSenaryo boyunca {} içeriğini {} anahtarı ile sakla : null"}
+{"logLevel":"debug","message":"\tKullanıcı adı: {}, Şifre {} ile temel yetkilendirme yap : null"}
+{"logLevel":"debug","message":"\tSleep for {} milliSecond : null"}
+{"logLevel":"debug","message":"\tAdd as a header {} = {} : null"}
+{"logLevel":"debug","message":"\tSenaryo deposundan {} alın ve değer:{} ile eşit olduğunu doğrulayın : null"}
+{"logLevel":"debug","message":"\tCheck if status code is {} : null"}
+{"logLevel":"debug","message":"\tResponse'u json olarak {} anahtarı ile suit boyunca sakla. : null"}
+{"logLevel":"debug","message":"\tYeni bir api isteği tanımla : null"}
+{"logLevel":"debug","message":"\tGet {} from the body then convert it to list and store it with {} during the scenario : null"}
+{"logLevel":"debug","message":"\tProxy ekle, {} : null"}
+{"logLevel":"debug","message":"\t{} anahtarı ile saklanan datalardan değeri al path parametresi olarak ekle. : null"}
+{"logLevel":"debug","message":"\tGet {} from scenario store and check if it is contains {} as string : null"}
+{"logLevel":"debug","message":"\tTesti {} milli saniyeliğine durdur : null"}
+{"logLevel":"debug","message":"\tBasic auth with {} and {} as preemptive : null"}
+{"logLevel":"debug","message":"\tAdd query parameter from store with {} : null"}
+{"logLevel":"debug","message":"\tTabloyu map objesi olarak {} anahtarı ile senaryo boyunca sakla {} : null"}
+{"logLevel":"debug","message":"\tAdd body from spec store with {} : null"}
+{"logLevel":"debug","message":"\tValidate json {} from the suit stored data with schema {} in classpath : null"}
+{"logLevel":"debug","message":"\tSpec boyunca {} içeriğini {} : null"}
+{"logLevel":"debug","message":"\tAdd proxy to request with {} and {} : null"}
+{"logLevel":"debug","message":"\tAdd query parameter {} = {}. : null"}
+{"logLevel":"debug","message":"\tGet {} from spec store and then compare with {}, Are they equals? : null"}
+{"logLevel":"debug","message":"\tSelector {} ile responsdand eğer getir ve null olduğunu doğrula  : null"}
+{"logLevel":"debug","message":"\tGet {} from suit store and verify it's not equals with {} : null"}
+{"logLevel":"debug","message":"\tGet {} from response and store it with {} during spec : null"}
+{"logLevel":"debug","message":"\tAdd query parameter {} : null"}
+{"logLevel":"debug","message":"\tGet {} and {} from scenario store and then compare, Are they equals? : null"}
+{"logLevel":"debug","message":"\tGet {} from response and then check if is null? : null"}
+{"logLevel":"debug","message":"\tVerify that the status code is {} : null"}
+{"logLevel":"debug","message":"\tDelete request : null"}
+{"logLevel":"debug","message":"\tKey {} ve {}'i senaryo deposundan getir ve eşit olmadıklarını doğrula : null"}
+{"logLevel":"debug","message":"\tProxy ekle, {}  : null"}
+{"logLevel":"debug","message":"\tSayı oluştur, {} ile {} arasında ve senaryo deposuna {} anahtarı ile kaydet : null"}
+{"logLevel":"debug","message":"\tPath parametresi ekle {} = {} : null"}
+{"logLevel":"debug","message":"\tHead request {} : null"}
+{"logLevel":"debug","message":"\tGet column {} data from query {} result and save in spec store : null"}
+{"logLevel":"debug","message":"\tGet {} from the body then convert it to list and store it with {} during the suit : null"}
+{"logLevel":"debug","message":"\tAdd log filter with errorStatus {} : null"}
+{"logLevel":"debug","message":"\tGet request {} : null"}
+{"logLevel":"debug","message":"\tGet {} from spec store and verify it is contains {} as string : null"}
+{"logLevel":"debug","message":"\tGet {} from spec store then compare with {}, Are they not equals? : null"}
+{"logLevel":"debug","message":"\tStore response as string with {} during suite : null"}
+{"logLevel":"debug","message":"\tRemove {} from store : null"}
+{"logLevel":"debug","message":"\tDeğer {}'in değer2 {}'i içerdiğini doğrula : null"}
+{"logLevel":"debug","message":"\tSenaryo kayıtlı verisinden istek body'si ekle, kayıt anahtarı {} : null"}
+{"logLevel":"debug","message":"\tGet {} from suit store and check if it is contains {} as string : null"}
+{"logLevel":"debug","message":"\tGenerate a {} digit number and store it in Spec store with {} key as string type : null"}
+{"logLevel":"debug","message":"\tAdd proxy to request with {}, {} {} : null"}
+{"logLevel":"debug","message":"\tStore table as map during scenario with {} {} : null"}
+{"logLevel":"debug","message":"\tQuery {} sorgusu sonucundan dönen tüm datayı kolon isimleriyle birlikte spec deposunda sakla : null"}
+{"logLevel":"debug","message":"\tGet {} and {} from scenario store and then compare, Are they not equals? : null"}
+{"logLevel":"debug","message":"\tGet column data from query {} result and save all column data in scenario store with column name : null"}
+{"logLevel":"debug","message":"\tSuite boyunca {} içeriğini {} : null"}
+{"logLevel":"debug","message":"\tReplace {} old chars to new {} chars on {} text but only first and store it on Suit store with {} key : null"}
+{"logLevel":"debug","message":"\tAdd Bearer token from suit store {} : null"}
+{"logLevel":"debug","message":"\tSayı oluştur, {} basamaklı ve spec deposuna {} anahtarı ile dizi olarak kaydet : null"}
+{"logLevel":"debug","message":"\tGet {} and {} from the spec store and verify they aren't equal : null"}
+{"logLevel":"debug","message":"\tAdd Bearer token from spec store {} : null"}
+{"logLevel":"debug","message":"\tHead isteği gönder : null"}
+{"logLevel":"debug","message":"\tGet {} and {} from the scenario store and verify they are equal : null"}
+{"logLevel":"debug","message":"\tAdd Bearer token from scenario store {} : null"}
+{"logLevel":"debug","message":"\tBu statü kodları için log filtresi ekle {} : null"}
+{"logLevel":"debug","message":"\tQuery parametresi ekle {} = {} : null"}
+{"logLevel":"debug","message":"\tAdd payload from store with key {} : null"}
+{"logLevel":"debug","message":"\tRespons'dan {} değerini getir ve {} anahtarı ile suite boyunca sakla : null"}
+{"logLevel":"debug","message":"\tValidate json {} from the scenario stored data with schema {} in classpath : null"}
+{"logLevel":"debug","message":"\tAdd SOAPAction {} : null"}
+{"logLevel":"debug","message":"\tPatch isteği gönder {} : null"}
+{"logLevel":"debug","message":"\tSpec store'dan Bearer token ekle {} : null"}
+{"logLevel":"debug","message":"\tAdd multi-part data as content-type to header with default boundary {} : null"}
+{"logLevel":"debug","message":"\tGet {} from {} json list which one equals {}={}, and store it during Spec with {} : null"}
+{"logLevel":"debug","message":"\tGet {} and {} from the secnario store and verify they aren't equal : null"}
+{"logLevel":"debug","message":"\tOptions request : null"}
+{"logLevel":"debug","message":"\tFile \"{}\" dosyayı recourcedan getir ve multi-part form data olarak ekle : null"}
+{"logLevel":"debug","message":"\tResponse'u String olarak {} anahtarı ile suite boyunca sakla. : null"}
+{"logLevel":"debug","message":"\tPost request : null"}
+{"logLevel":"debug","message":"\tValidate stored json {} response with stored schema {} from scenario data store : null"}
+{"logLevel":"debug","message":"\tGet {} from the response and then verify it is not null? : null"}
+{"logLevel":"debug","message":"\tSayı oluştur,en fazla {} basamaklı ve spec deposuna {} anahtarı ile kaydet : null"}
+{"logLevel":"debug","message":"\tBearer token ekle {} : null"}
+{"logLevel":"debug","message":"\tGet column {} data from query {} result and save in suit store : null"}
+{"logLevel":"debug","message":"\tGet {} from spec store and verify it's not equals with {} : null"}
+{"logLevel":"debug","message":"\tMulti-part verileri, ekleyin header varsayılan boundary {} ile : null"}
+{"logLevel":"debug","message":"\tSubstring text {} from {} index to {} index then store it in Spec store with {} key : null"}
+{"logLevel":"debug","message":"\tResponse zamanını getir ve karşılaştır, {} saniyeden düşük mü?' : null"}
+{"logLevel":"debug","message":"\tDosya tipinde istek body'si ekle {} : null"}
+{"logLevel":"debug","message":"\tPut request : null"}
+{"logLevel":"debug","message":"\tSpec kayıtlı verisinden istek body'si ekle, kayıt anahtarı {} : null"}
+{"logLevel":"debug","message":"\tAdd payload as file from resource {} : null"}
+{"logLevel":"debug","message":"\tPost isteği gönder {} : null"}
+{"logLevel":"debug","message":"\tGenerate a max {} digit number and store it in Spec store as {} key : null"}
+{"logLevel":"debug","message":"\tRespons'dan {} değerini getir ve {} anahtarı ile spec boyunca sakla : null"}
+{"logLevel":"debug","message":"\tQuery {} sorgusu sonucundan {} sütun verisini scenario deposunda sakla : null"}
+{"logLevel":"debug","message":"\tReplace {} old chars to new {} chars on {} text but only first and store it on Scenario store with {} key : null"}
+{"logLevel":"debug","message":"\tGet response time as milliseconds and compare it, is it less then {}? : null"}
+{"logLevel":"debug","message":"\tGenerate new phone number and store as {} during spec : null"}
+{"logLevel":"debug","message":"\tAdd payload as String from resource {} : null"}
+{"logLevel":"debug","message":"\tAdd form parameters {} = {} : null"}
+{"logLevel":"debug","message":"\tPut isteği gönder : null"}
+{"logLevel":"debug","message":"\tStore variable {} = {} during scenario : null"}
+{"logLevel":"debug","message":"\tResponse'u json olarak {} anahtarı ile spec boyunca sakla. : null"}
+{"logLevel":"debug","message":"\tAdd query parameter {} = {} : null"}
+{"logLevel":"debug","message":"\tStore response as json with {} during spec : null"}
+{"logLevel":"debug","message":"\tCheck if {} is contains {} as string : null"}
+{"logLevel":"debug","message":"\tSubstring text {} from {} index to the end then store it in Scenario store with {} key : null"}
+{"logLevel":"debug","message":"\tStore response as json with {} during scenario : null"}
+{"logLevel":"debug","message":"\tAdd body from suite store with {} : null"}
+{"logLevel":"debug","message":"\tVarsayılan https sertifkası ekleyin : null"}
+{"logLevel":"debug","message":"\tProxy ekle {}, {} {} : null"}
+{"logLevel":"debug","message":"\tGet {} from scenario store and then compare with {}, Are they equals? : null"}
+{"logLevel":"debug","message":"\tGet response time as seconds and compare it, is it less then {}? : null"}
+{"logLevel":"debug","message":"\tVerify {} is contains {} as string : null"}
+{"logLevel":"debug","message":"\tAdd base url {} : null"}
+{"logLevel":"debug","message":"\tGet body {} and update {}={} in json then store it during the scenario with {} : null"}
+{"logLevel":"debug","message":"\tQuery {} sorgusu sonucundan dönen tüm datayı kolon isimleriyle birlikte senaryo deposunda sakla : null"}
+{"logLevel":"debug","message":"\tGet value with {} from response and verify it is equal with {} : null"}
+{"logLevel":"debug","message":"\tSuit kayıtlı verisinden istek body'si ekle, kayıt anahtarı {} : null"}
+{"logLevel":"debug","message":"\tGet {} from response and then compare with {}, Are they equals? : null"}
+{"logLevel":"debug","message":"\tValidate json {} from the spec stored data with schema {} in classpath : null"}
+{"logLevel":"debug","message":"\tSet contentType is JSON : null"}
+{"logLevel":"debug","message":"\tForm parametrelerini ekleyin {} = {} : null"}
+{"logLevel":"debug","message":"\tSenaryo boyunca json {} içeriğini {} anahtarı ile sakla : null"}
+{"logLevel":"debug","message":"\tStore json {}'s value from classpath with {} during suit : null"}
+{"logLevel":"debug","message":"\tAdd body from scenario store with {} : null"}
+{"logLevel":"debug","message":"\tGet {} from suit store and verify it is contains {} as string : null"}
+{"logLevel":"debug","message":"\tGenerate a number between {} and {} and end and store it in Suit store with {} key : null"}
+{"logLevel":"debug","message":"\tYanıttan {} ile değer alın ve {} ile eşit olmadığını doğrulayın : null"}
+{"logLevel":"debug","message":"\tAdd payload from spec store with {} : null"}
+{"logLevel":"debug","message":"\tStore json {}'s value from classpath with {} during scenario : null"}
+{"logLevel":"debug","message":"\tGenerate a number between {} and {} and end and store it in Scenario store with {} key : null"}
+{"logLevel":"debug","message":"\tKayıtlı parametreyi logla {} : null"}
+{"logLevel":"debug","message":"\tReplace {} old chars to new {} chars on {} text and store it on Spec store with {} key : null"}
+{"logLevel":"debug","message":"\tGet {} and {} from suit store and then compare, Are they not equals? : null"}
+{"logLevel":"debug","message":"\tResponsu resource da tanımlanan şema {} ile dorğulayın : null"}
+{"logLevel":"debug","message":"\tReplace {} old chars to new {} chars on {} text but only first and store it on Spec store with {} key : null"}
+{"logLevel":"debug","message":"\tKey {} ve {}'i spec deposundan getir ve eşit olmadıklarını doğrula : null"}
+{"logLevel":"debug","message":"\tGenerate a {} digit number and store it in Suit store with {} key as string type : null"}
+{"logLevel":"debug","message":"\tAdd payload from scenario store with {} : null"}
+{"logLevel":"debug","message":"\tLog this param {} : null"}
+{"logLevel":"debug","message":"\tQuery {} sorgusu sonucundan {} sütun verisini suit deposunda sakla : null"}
+{"logLevel":"debug","message":"\tGet {} from response and then compare with {}, Are they not equals? : null"}
+{"logLevel":"debug","message":"\tGet request : null"}
+{"logLevel":"debug","message":"\tStatü kodunu kontrol et {} mü? : null"}
+{"logLevel":"debug","message":"\tUrl ekle {} : null"}
+{"logLevel":"debug","message":"\t{} anahtarı ile saklanan datalardan değeri al query parametresi olarak ekle. : null"}
+{"logLevel":"debug","message":"\tStore variable {} = {} during spec : null"}
+{"logLevel":"debug","message":"\tOptions isteği gönder : null"}
+{"logLevel":"debug","message":"\tSubstring text {} from {} index to the end then store it in Spec store with {} key : null"}
+{"logLevel":"debug","message":"\tSpec boyunca json {} içeriğini {} anahtarı ile sakla : null"}
+{"logLevel":"debug","message":"\tGet {} from suit store then compare with {}, Are they not equals? : null"}
+{"logLevel":"debug","message":"\tGet {} from scenario store then compare with {}, Are they not equals? : null"}
+{"logLevel":"debug","message":"\tAdd relaxed HTTPS validation : null"}
+{"logLevel":"debug","message":"\tGet \"{}\" file and add to request as multi-part form data : null"}
+{"logLevel":"debug","message":"\tAdd path parameter from store with {} : null"}
+{"logLevel":"debug","message":"\tResponse zamanını getir ve karşılaştır, {} milisaniyeden düşük mü?' : null"}
+{"logLevel":"debug","message":"\tGet {} from spec store and verify it is equal with {} : null"}
+{"logLevel":"debug","message":"\tProxy ekle, host: {}, port: {}, schema: {}, username: {} and password:{} : null"}
+{"logLevel":"debug","message":"\tSenaryo deposundan {} alın ve {} ile eşit olmadığını doğrulayın : null"}
+{"logLevel":"debug","message":"\tGenerate a max {} digit number and store it in Scenario store as {} key : null"}
+{"logLevel":"debug","message":"\tGenerate new mail address and store as {} during scenario : null"}
+{"logLevel":"debug","message":"\tAdd path parameter {} = {} : null"}
+{"logLevel":"debug","message":"\tValidate response with  schema {} in classpath according draft3 : null"}
+{"logLevel":"debug","message":"\tValidate response with  schema {} in classpath according draft4 : null"}
+{"logLevel":"debug","message":"\tAdd endpoint {} : null"}
+{"logLevel":"debug","message":"\tKey {} ve {}'i suit deposundan getir ve eşit olmadıklarını doğrula : null"}
+{"logLevel":"debug","message":"\tYanıttan {} ile değer alın ve {} ile eşit olduğunu doğrulayın : null"}
+{"logLevel":"debug","message":"\tSayı oluştur,en fazla {} basamaklı ve suit deposuna {} anahtarı ile kaydet : null"}
+{"logLevel":"debug","message":"\tFile \"{}\" dosyayı recourcedan getir ve key {} ile multi-part form data olarak ekle : null"}
+{"logLevel":"debug","message":"\tSpec boyunca değişkeni sakla {} = {} : null"}
+{"logLevel":"debug","message":"\tReplace {} old chars to new {} chars on {} text and store it on Scenario store with {} key : null"}
+{"logLevel":"debug","message":"\tGet {} from spec store and check if it is contains {} as string : null"}
+{"logLevel":"debug","message":"\tEndpoint ekle {} : null"}
+{"logLevel":"debug","message":"\tStore {}'s value from classpath with {} during scenario : null"}
+{"logLevel":"debug","message":"\tGet {} from scenario store and verify it is contains {} as string : null"}
+{"logLevel":"debug","message":"\tAdd body as file from resource {} : null"}
+{"logLevel":"debug","message":"\tSuit deposundan {} alın ve {} ile eşit olmadığını doğrulayın : null"}
+{"logLevel":"debug","message":"\tLogla {} : null"}
+{"logLevel":"debug","message":"\tForm parametresi ekle {} = {} : null"}
+{"logLevel":"debug","message":"\tDosyayadan String tipinde istek body'si ekle {} : null"}
+{"logLevel":"debug","message":"\tStore {}'s value from classpath with {} during suite : null"}
+{"logLevel":"debug","message":"\tSpec deposundan {} alın ve değer:{} ile eşit olduğunu doğrulayın : null"}
+{"logLevel":"debug","message":"\tSayı oluştur, {} ile {} arasında ve suit deposuna {} anahtarı ile kaydet : null"}
+{"logLevel":"debug","message":"\tValidate response json with schema {} which is in from class path : null"}
+{"logLevel":"debug","message":"\tResponse'u String olarak {} anahtarı ile spec boyunca sakla. : null"}
+{"logLevel":"debug","message":"\tSubstring text {} from {} index to {} index then store it in Scenario store with {} key : null"}
+{"logLevel":"debug","message":"\tGet {} from response and store it with {} during suite : null"}
+{"logLevel":"debug","message":"\tSuit boyunca json {} içeriğini {} anahtarı ile sakla : null"}
+{"logLevel":"debug","message":"\tStore response as string with {} during scenario : null"}
+{"logLevel":"debug","message":"\tAdd payload as map {} : null"}
+{"logLevel":"debug","message":"\tGenerate a max {} digit number and store it in Suit store as {} key : null"}
+{"logLevel":"debug","message":"\tDefine new request : null"}
+{"logLevel":"debug","message":"\tSayı oluştur, {} basamaklı ve senaryo deposuna {} anahtarı ile dizi olarak kaydet : null"}
+{"logLevel":"debug","message":"\tGet {} and {} from the suit store and verify they aren't equal : null"}
+{"logLevel":"debug","message":"\tHeader Ekle {} : null"}
+{"logLevel":"debug","message":"\tSenaryo store'dan Bearer token ekle {} : null"}
+{"logLevel":"debug","message":"\tGet body with {} from store and update {} as {} from scenario data : null"}
+{"logLevel":"debug","message":"\tSenaryo boyunca değişkeni sakla {} = {} : null"}
+{"logLevel":"debug","message":"\tSelector {} ile responsdand eğer getir ve null olmadığını doğrula : null"}
+{"logLevel":"debug","message":"\tGenerate a {} digit number and store it in Scenario store with {} key as string type : null"}
+{"logLevel":"debug","message":"\tDelete request {} : null"}
+{"logLevel":"debug","message":"\tTablodan istek body'si ekle {} : null"}
+{"logLevel":"debug","message":"\tGet column {} data from query {} result and save in scenario store : null"}
+{"logLevel":"debug","message":"\tGet {} from {} json list which one equals {}={}, and store it during Scenario with {} : null"}
+{"logLevel":"debug","message":"\tSubstring text {} from {} index to {} index then store it in Suit store with {} key : null"}
+{"logLevel":"debug","message":"\tStore response as string with {} during spec : null"}
+{"logLevel":"debug","message":"\tForm parametrelerini ekle {} : null"}
+{"logLevel":"debug","message":"\tGet column data from query {} result and save all column data in spec store with column name : null"}
+[INFO ] 2022-11-24 18:36:54.651 Configuration:63 - Properties read finished.
+{"logLevel":"debug","message":"Executing 'Add base url {}' using 'class imp.UrlImp.addBaseUrlToReq"}
+[INFO ] 2022-11-24 18:36:55.225 RequestUrlHelper:18 - https://petstore.swagger.io added as a base url
+{"logLevel":"debug","message":"Executing 'Add endpoint {}' using 'class imp.UrlImp.addBasePathToReq"}
+[INFO ] 2022-11-24 18:36:55.238 RequestUrlHelper:23 - /v2/pet added as a base path
+{"logLevel":"debug","message":"Executing 'Add as a header {} = {}' using 'class imp.HeaderImp.addHeaderToReq"}
+[INFO ] 2022-11-24 18:36:55.307 HeaderHelper:47 - content-type, application/json header added
+{"logLevel":"debug","message":"Executing 'Add payload as file from resource {}' using 'class imp.RequestBodyImp.addBodyAsFile"}
+[INFO ] 2022-11-24 18:36:55.317 RequestBodyHelper:68 - Body added to request 
+ Body detail: C:\Users\Mert.Mansuroglu\Documents\io.bdd_testing_frameworks_SM\api_testing\java.io.BufferedInputStream@4a5d0d2
+{"logLevel":"debug","message":"Executing 'Add log filter with errorStatus {}' using 'class imp.LogImp.addFilter"}
+[INFO ] 2022-11-24 18:36:55.335 FilterHelper:24 - Status added to log filter 400, 405, 415
+{"logLevel":"debug","message":"Executing 'Post request' using 'class imp.methods.PostRequestImp.postRequests"}
+[WARN ] 2022-11-24 18:36:57.365 SlackHelper:94 - Slack message couldn't send, please check your webhook is active?
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

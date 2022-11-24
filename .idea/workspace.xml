@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59950183-7e26-4b5e-950f-3313f0ee4af4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Api_Testing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Api_Testing/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Api_Testing/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mutual_Methods/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mutual_Methods/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mutual_Methods/src/main/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mutual_Methods/src/main/resources/extent-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mutual_Methods/src/main/resources/log4j2.component.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="59950183-7e26-4b5e-950f-3313f0ee4af4" name="Changes" comment="new one latest">
+      <change afterPath="$PROJECT_DIR$/Api_Testing/src/main/java/base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api_Testing/src/main/java/options/CucumberDataTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api_Testing/src/main/java/options/TestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-18",
     "last_opened_file_path": "C:/Users/Mert.Mansuroglu/Documents/GaugeApiProject",
     "project.structure.last.edited": "Modules",
@@ -108,6 +96,21 @@
       <option name="presentableId" value="Default" />
       <updated>1669326402562</updated>
     </task>
+    <task id="LOCAL-00001" summary="new one">
+      <created>1669329667228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669329667228</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new one latest">
+      <created>1669329742470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669329742470</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,5 +123,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new one" />
+    <MESSAGE value="new one latest" />
+    <option name="LAST_COMMIT_MESSAGE" value="new one latest" />
   </component>
 </project>

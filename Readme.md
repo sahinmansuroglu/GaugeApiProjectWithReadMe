@@ -88,7 +88,8 @@ The following step can be used to add the path parameter to the request.
 
 ```* Add path parameter "patId" = "1234".```
 
-You can check more options to add path parameters and review how the steps are implemented by clicking here [PathParamImp](https://github.com/mertmansuroglu/io.bdd_testing_frameworks_SM/blob/master/mutual_methods/src/src/main/java/imp/PathParamImp.java#L1) class.
+You can check more options to add path parameters and review how the steps are implemented by clicking here [PathParamImp](https://github.com/mertmansuroglu/io.bdd_testing_frameworks_SM/blob/master/mutual_methods/src/main/java/imp/PathParamImp.java#L1) class.
+
 
 <a name='step5'></a>
 ##### 5- Adding Headers
